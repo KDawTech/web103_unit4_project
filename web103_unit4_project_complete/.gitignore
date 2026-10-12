@@ -1,0 +1,7 @@
+node_modules/
+server/.env
+client/dist/
+server/public/
+*.log
+.DS_Store
+.vscode/
